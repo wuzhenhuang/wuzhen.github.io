@@ -3,19 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Wuzhen
+middle_name:  
+last_name: Huang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  For research and R&D opportunities, please contact me by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Research portfolio of Wuzhen Huang, working across X-ray imaging, advanced manufacturing, process monitoring, sensing and signal processing, materials characterization,
+  NDT, and dimensional metrology.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+keywords: x-ray imaging, xct, computed tomography, computational imaging, advanced manufacturing, process monitoring, signal processing, materials characterization, metrology  # add your own keywords or leave empty
+lang: en, cn # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
