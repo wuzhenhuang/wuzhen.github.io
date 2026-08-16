@@ -5,6 +5,7 @@ The overlay includes neutral placeholders so the site can build before real figu
 Replace files using the SAME filenames:
 
 ## Profile
+
 - `assets/img/prof_pic.jpg`
   - head-and-shoulders photo
   - neutral background
@@ -12,6 +13,7 @@ Replace files using the SAME filenames:
   - suggested >= 800 px
 
 ## X-ray Imaging
+
 - `assets/img/project_xct_digital_twin.png`
   - best: experimental vs simulated projection comparison, or a clean scanner/model overview
 - `assets/img/project_geometry_reference.png`
@@ -22,14 +24,16 @@ Replace files using the SAME filenames:
   - best: public/anonymized CT slice or segmentation result
 
 ## Manufacturing & Monitoring
+
 - `assets/img/project_toolwear.png`
   - best: AE/force/vibration signals, machining setup, or microscopy/SEM wear image
 - `assets/img/project_peek.png`
   - best: IR thermography frame, FEM temperature field, or PEEK printing/specimen image
 
 ## Thumbnail recommendation
+
 - landscape crop around 16:10 or 3:2
-- >= 1000 px wide
+- > = 1000 px wide
 - avoid embedded figure titles and long captions
 - avoid multi-panel figures with tiny unreadable labels
 - one visual message per thumbnail
